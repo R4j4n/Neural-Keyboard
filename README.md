@@ -34,4 +34,4 @@ imutils==0.5.3
 
 ### With the joint effort of: https://github.com/basnetrikesh
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.https://github.com/R4j4n/Neural-Keyboard) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.https://github.com/R4j4n/Neural-Keyboard)
