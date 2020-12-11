@@ -18,8 +18,9 @@ function as it contains co-ordinates of respective landmarks and function return
 <img src="FILES\crop.png">
 4. Pass the cropped eye images through the model for the detection of the eyes width.<br>
 
-Working demo: 
-![](FILES\ezgif.com-gif-maker.gif)
+
+![](FILES\nk.gif)
+
 
 This code was developed on: 
 ```
