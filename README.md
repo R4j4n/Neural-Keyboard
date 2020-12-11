@@ -30,6 +30,9 @@ dlib == 19.20.0
 imutils==0.5.3
 ```
 
+# NOTE:
+ Download the shape_predictor_68_face_landmarks.dat file from [HERE](https://drive.google.com/drive/folders/1sBn-qxZW-cJC8epR0z63Kz3uwnS8SjZF?usp=sharing) and paste it in the Files folder. 
+
 ### With the joint effort of: https://github.com/basnetrikesh
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.https://github.com/R4j4n/Neural-Keyboard)
