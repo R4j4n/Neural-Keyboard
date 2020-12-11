@@ -19,7 +19,8 @@ function as it contains co-ordinates of respective landmarks and function return
 4. Pass the cropped eye images through the model for the detection of the eyes width.<br>
 
 ## WORKING DEMO: 
-![Alt Text](FILES\ezgif.com-gif-maker.gif)
+
+![](FILES\ezgif.com-gif-maker.gif)
 
 This code was developed on: 
 ```
@@ -35,4 +36,4 @@ imutils==0.5.3
 
 ### With the joint effort of: https://github.com/basnetrikesh
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.https://github.com/R4j4n/Neural-Keyboard)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.https://github.com/R4j4n/Neural-Keyboard) -->
