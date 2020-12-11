@@ -8,6 +8,8 @@ The neural keyboard is an Eye-controlled keyboard for physically-challenged peop
 It uses Neural Networks to predict the eye's state accurately using which the keyboard is operated.
 
 
+![Alt text](nk.gif)
+
 # How it works
 For each frame in a second:
 1. Using Dlib frontal face detector all of the 68 facial landmarks co-ordinates are detected and the co-ordinates are converted into numpy array.
@@ -17,10 +19,6 @@ function as it contains co-ordinates of respective landmarks and function return
 <br>
 <img src="FILES\crop.png">
 4. Pass the cropped eye images through the model for the detection of the eyes width.<br>
-
-
-![](FILES\nk.gif)
-
 
 This code was developed on: 
 ```
